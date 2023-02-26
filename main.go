@@ -1,9 +1,9 @@
 package main
 
 import (
-	"backend/account/api"
-	"backend/account/inmem"
-	"backend/account/service"
+	"api"
+	"inmem"
+	"service"
 )
 
 func main() {
